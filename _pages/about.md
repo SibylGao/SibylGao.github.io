@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-#### About me
 
 I am a third-year Ph.D. student in Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), advised by Prof. Zhaoqi Wang. I got my bachelor’s degree from Harbin Institute of Technology (HIT) in 2019.
 
