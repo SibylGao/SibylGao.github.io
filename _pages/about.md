@@ -16,5 +16,15 @@ My research interests lie in the field of computer vision and computer graphics,
 
 ## Publication
 
-Paper is under review...
+Cost Volume Pyramid Network with Multi-strategies Range Searching.  (Under Review)
 
+
+
+## Project
+
+Here are some selected projects in recent years if you are interested:
+
++ 3D Human Animation Rendering Based on Unreal Engine: https://github.com/SibylGao/HumanRendering-UE4.git  
++ End-to-end Deep Learning Network for Multi-view Stereo: https://github.com/SibylGao/MSCVP-MVSNet.git  
++ Traffic flow simulation & visualisation in Large Scale Evacuation Simulation System: https://github.com/SibylGao/Car-Simulation.git  
++ Infantry Robot Vision System Design for ROBOMaster Robotics Competition: https://github.com/SibylGao/Vision-system.git  
