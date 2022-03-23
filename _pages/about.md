@@ -24,7 +24,7 @@ Cost Volume Pyramid Network with Multi-strategies Range Searching.  (Under Revie
 
 Here are some selected projects in recent years if you are interested:
 
-+ 3D Human Animation Rendering Based on Unreal Engine: https://github.com/SibylGao/HumanRendering-UE4.git  
-+ End-to-end Deep Learning Network for Multi-view Stereo: https://github.com/SibylGao/MSCVP-MVSNet.git  
-+ Traffic flow simulation & visualisation in Large Scale Evacuation Simulation System: https://github.com/SibylGao/Car-Simulation.git  
-+ Infantry Robot Vision System Design for ROBOMaster Robotics Competition: https://github.com/SibylGao/Vision-system.git  
++ 3D Human Animation Rendering Based on Unreal Engine: [project link](https://github.com/SibylGao/HumanRendering-UE4.git)
++ End-to-end Deep Learning Network for Multi-view Stereo: [project link](https://github.com/SibylGao/MSCVP-MVSNet.git)
++ Traffic flow simulation & visualisation in Large Scale Evacuation Simulation System: [project link](https://github.com/SibylGao/Car-Simulation.git)
++ Infantry Robot Vision System Design for ROBOMaster Robotics Competition: [project link](https://github.com/SibylGao/Vision-system.git)
