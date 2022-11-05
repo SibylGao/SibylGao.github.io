@@ -16,7 +16,7 @@ My research interests lie in the field of computer vision and computer graphics,
 
 ## Publication
 
-Cost Volume Pyramid Network with Multi-strategies Range Searching.  (Double blind review)
+Cost Volume Pyramid Network with Multi-strategies Range Searching.  (Accepted by CGI2022)
 
 
 
