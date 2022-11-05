@@ -14,7 +14,7 @@ My research interests lie in the field of 3D visions, especially multi-view ster
 
 ------
 
-## 🔥 News
+### 🔥 News
 + 2022-07-21 Research Intern at [VIS, Baidu Inc](https://vis.baidu.com/#/), first day working on 3D detection😋, supervised by Xin Wang & Jindong Wang.
 + 2022-04-25 One paper accepted by CGI2022💥
 + 2022-04-13 Research Intern at [IDL, Baidu Research](http://research.baidu.com/), supervised by Tianyi Wu & Guodong Guo.
