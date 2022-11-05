@@ -21,7 +21,7 @@ My research interests lie in the field of 3D visions, especially multi-view ster
 + 2019-09-01 Join VR Lab at Institute of Computing Technology, Chinese Academy of Sciences [ICT, CAS](http://www.ict.ac.cn/), start my CV jounery🔫!
 + 2019-02-01 Research Asistant at VR Lab, Institute of Computing Technology, Chinese Academy of Sciences.
 
-## 📝 Publications
+### 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='images/CFDS3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +48,7 @@ Haotian Hu, Fanyi Wang, Jingwen Su, **Shiyu Gao**, Yaonong Wang, Laifeng Hu, Yua
 
 
 
-## 💻 Project
+### 💻 Project
 Here are some selected projects in recent years if you are interested:
 
 + 3D Human Animation Rendering Based on Unreal Engine: [project link](https://github.com/SibylGao/HumanRendering-UE4.git)
