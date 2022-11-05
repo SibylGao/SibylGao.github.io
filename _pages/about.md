@@ -20,6 +20,8 @@ My research interests lie in the field of 3D visions, especially multi-view ster
 + 2022-04-13 Research Intern at [IDL, Baidu Research](http://research.baidu.com/), supervised by Tianyi Wu & Prof. Guodong Guo.
 + 2019-09-01 Join VR Lab at Institute of Computing Technology, Chinese Academy of Sciences [ICT, CAS](http://www.ict.ac.cn/), start my CV jounery!🔫
 + 2019-02-01 Research Asistant at VR Lab, Institute of Computing Technology, Chinese Academy of Sciences.
+</div>
+</div>
 
 
 ### 📝 Publications
