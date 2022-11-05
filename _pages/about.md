@@ -20,7 +20,7 @@ My research interests lie in the field of 3D visions, especially multi-view ster
 + 2022-04-13 Research Intern at [IDL, Baidu Research](http://research.baidu.com/), supervised by Tianyi Wu & Guodong Guo.
 
 
-# 📝 Publications
+## 📝 Publications
 Cost Volume Pyramid Network with Multi-strategies Range Searching.  (Accepted by CGI2022)
 
 
