@@ -29,7 +29,7 @@ My research interests lie in the field of 3D visions, especially multi-view ster
 **CFDS3D: Centroid Feature Diffusion Sampling framework for 3D Object Detection** \\
 Haotian Hu, Fanyi Wang, Jingwen Su, **Shiyu Gao**, Yaonong Wang, Laifeng Hu, Yuan Zhou, Yuhan Wang, Jineng Han, Mingyang Zhang, Weiye Fang
 
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+- We introduce a point-based 3D detection framework, named CFDS3D, which achieves efficient and accurate detection in large-scale point clouds scenes when inserting to existing point-based methods
 </div>
 </div>
 
@@ -41,7 +41,10 @@ Haotian Hu, Fanyi Wang, Jingwen Su, **Shiyu Gao**, Yaonong Wang, Laifeng Hu, Yua
 
 **Project Link 👉:**[https://github.com/SibylGao/MSCVP-MVSNet](https://github.com/SibylGao/MSCVP-MVSNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+- We discuss the impact of different search strategies in each stage for pyramid-based MVS methods and propose MS-CVPMVSNet, a pyramid-based method which leverage multi-dimensional information.
+- To further exploit information in cost volume of deep MVS and obtain more accurate predictions in low-resolution
+stage before refinement, we propose unimodal assumption as a training label in second stage.
+- Our method obtains SOTA results (especially in completeness) on DTU and BlendedMVS dataset.
 </div>
 </div>
 
