@@ -14,14 +14,18 @@ My research interests lie in the field of 3D visions, especially multi-view ster
 
 ------
 
-## Publication
+# 🔥 News
++ 2022-07-21 Research Intern at [VIS, Baidu Inc](https://vis.baidu.com/#/), first day working on 3D detection :stuck_out_tongue_winking_eye:, supervised by Xin Wang & Jindong Wang.
++ 2022-04-25 One paper accepted by CGI2022:boom:
++ 2022-04-13 Research Intern at [IDL, Baidu Research](http://research.baidu.com/), supervised by Tianyi Wu & Guodong Guo.
 
+
+# 📝 Publications
 Cost Volume Pyramid Network with Multi-strategies Range Searching.  (Accepted by CGI2022)
 
 
 
-## Project
-
+# :computer: Project
 Here are some selected projects in recent years if you are interested:
 
 + 3D Human Animation Rendering Based on Unreal Engine: [project link](https://github.com/SibylGao/HumanRendering-UE4.git)
