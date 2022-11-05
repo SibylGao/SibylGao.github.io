@@ -39,11 +39,10 @@ Haotian Hu, Fanyi Wang, Jingwen Su, **Shiyu Gao**, Yaonong Wang, Laifeng Hu, Yua
 [Cost Volume Pyramid Network with Multi-strategies Range Searching](https://arxiv.org/pdf/2207.12032.pdf) \\
 **Shiyu Gao**, Zhaoxin Li, Zhaoqi Wang
 
-**Project Link 👉:**[https://github.com/SibylGao/MSCVP-MVSNet](https://github.com/SibylGao/MSCVP-MVSNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+**Project Link 👉:** [https://github.com/SibylGao/MSCVP-MVSNet](https://github.com/SibylGao/MSCVP-MVSNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - We discuss the impact of different search strategies in each stage for pyramid-based MVS methods and propose MS-CVPMVSNet, a pyramid-based method which leverage multi-dimensional information.
-- To further exploit information in cost volume of deep MVS and obtain more accurate predictions in low-resolution
-stage before refinement, we propose unimodal assumption as a training label in second stage.
+- To further exploit information in cost volume of deep MVS, we propose unimodal assumption as a training label in second stage.
 - Our method obtains SOTA results (especially in completeness) on DTU and BlendedMVS dataset.
 </div>
 </div>
