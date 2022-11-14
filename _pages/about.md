@@ -18,7 +18,7 @@ My research interests lie in the field of 3D visions, especially multi-view ster
 + 2022-07-21 Research Intern at [VIS, Baidu Inc](https://vis.baidu.com/#/), first day working on 3D detection😋, supervised by Dr. Xin Wang & Prof. Jindong Wang.
 + 2022-04-25 One paper accepted by CGI2022💥
 + 2022-04-13 Research Intern at [IDL, Baidu Research](http://research.baidu.com/), supervised by Tianyi Wu & Prof. Guodong Guo.
-+ 2019-09-01 Join VR Lab at Institute of Computing Technology, Chinese Academy of Sciences [ICT, CAS](http://www.ict.ac.cn/), start my CV jounery!🔫
++ 2019-09-01 Join VR Lab at Institute of Computing Technology, Chinese Academy of Sciences [ICT, CAS](http://www.ict.ac.cn/), start my CV journey!🔫
 + 2019-02-01 Research Asistant at VR Lab, Institute of Computing Technology, Chinese Academy of Sciences.
 
 
