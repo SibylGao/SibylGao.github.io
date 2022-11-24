@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), advised by Prof. Zhaoqi Wang. I got my bachelor’s degree from Harbin Institute of Technology (HIT) in 2019.
 
-My research interests lie in the field of 3D visions, especially multi-view stereo, 3D reconstruction (large-scale scenes & human body) and 3D detection.
+My research interests lie in the field of computer vision and computer graphics, especially multi-view stereo, 3D reconstruction (large-scale scenes & human body) and 3D detection.
 
 ------
 
